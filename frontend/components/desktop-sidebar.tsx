@@ -25,6 +25,12 @@ const navItems = [
     gradient: 'from-green-500 to-emerald-500',
   },
   {
+    label: 'Profile',
+    href: '/profile',
+    icon: User,
+    gradient: 'from-teal-500 to-cyan-500',
+  },
+  {
     label: 'Stats',
     href: '/stats',
     icon: BarChart3,

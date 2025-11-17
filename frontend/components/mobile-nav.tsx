@@ -17,6 +17,11 @@ const navItems = [
     icon: Globe,
   },
   {
+    label: 'Profile',
+    href: '/profile',
+    icon: User,
+  },
+  {
     label: 'Orgs',
     href: '/organizations',
     icon: Building2,
